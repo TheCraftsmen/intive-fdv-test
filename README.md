@@ -5,6 +5,8 @@
 For this project I'm use Factory Method design pattern
 and I'm use TDD for make this excercises
 for syntax use python pep8 convention
+python 3.6 without typing
+travis ci for continuous integration
 
 
 ## how run the test
