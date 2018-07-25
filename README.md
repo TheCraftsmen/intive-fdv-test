@@ -7,18 +7,12 @@ for syntax use python pep8 convention
 
 ## how run the test
 
-`
 python -m unittest test.py
-`
+
 
 ## how run coverage
 
-`
-pip install coverage
-`
-`
-pip install pytest-cov
-`
-`
+pip install -r requirements.txt
+
 py.test test.py --cov=app --cov-report html
-`
+
